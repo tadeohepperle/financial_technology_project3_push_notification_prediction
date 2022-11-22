@@ -1,0 +1,65 @@
+
+\begin{figure}[htb]
+  \centering
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/BiLSTM_train_roc.png}
+    \caption{BiLSTM on train}
+    \label{fig:BiLSTM_roc_train}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/BiLSTM_val_roc.png}
+    \caption{BiLSTM on validation}
+    \label{fig:BiLSTM_roc_val}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/BiLSTM_test_roc.png}
+    \caption{BiLSTM on test}
+    \label{fig:BiLSTM_roc_test}
+  \end{subfigure}
+
+
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/BiGRU_train_roc.png}
+    \caption{BiGRU on train}
+    \label{fig:BiGRU_roc_train}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/BiGRU_val_roc.png}
+    \caption{BiGRU on validation}
+    \label{fig:BiGRU_roc_val}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/BiGRU_test_roc.png}
+    \caption{BiGRU on test}
+    \label{fig:BiGRU_roc_test}
+  \end{subfigure}
+
+
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/Transformer_train_roc.png}
+    \caption{TEL on train}
+    \label{fig:Transformer_roc_train}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/Transformer_val_roc.png}
+    \caption{TEL on validation}
+    \label{fig:Transformer_roc_val}
+  \end{subfigure}
+  \begin{subfigure}[b]{0.32\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{../images/Transformer_test_roc.png}
+    \caption{TEL on test}
+    \label{fig:Transformer_roc_test}
+  \end{subfigure}
+
+  \caption{receiver operating characteristic curves}
+  \label{fig:prc}
+\end{figure}
