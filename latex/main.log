@@ -864,4 +864,386 @@ Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
 \ar@mcellbox=\box57
 \extrarowheight=\dimen171
 \NC@list=\toks30
-\ext
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box58
+)
+\rotheadsize=\dimen172
+\c@nlinenum=\count293
+\TeXr@lab=\toks31
+) (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+) (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/cjk/UTF8\UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 25.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen173
+\Gin@req@width=\dimen174
+) (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count294
+\scratchdimen=\dimen175
+\scratchbox=\box59
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen176
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks33
+) (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 36.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/ctex/fd\c70rm.fd
+File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
+) (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/generic/ctex/zhmap\ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2022/07/14 v2.5.10 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{C:/Users/tadeo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
+
+] (main.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.53937> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 62.
+ (C:\Users\tadeo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [2
+
+]
+Overfull \hbox (3.26688pt too wide) in paragraph at lines 70--72
+[]\T1/lmr/m/n/10.53937 To pre-dict whether a push no-ti-fi-ca-tion is clicked we use bi-directional LSTMs,
+ []
+
+[3]
+<../images/forward_pass_lstm.png, id=29, 251.0178pt x 94.9146pt>
+File: ../images/forward_pass_lstm.png Graphic file (type png)
+<use ../images/forward_pass_lstm.png>
+Package pdftex.def Info: ../images/forward_pass_lstm.png  used on input line 94.
+(pdftex.def)             Requested size: 165.59853pt x 62.6163pt.
+<../images/forward_pass_gru.png, id=31, 247.4043pt x 94.4328pt>
+File: ../images/forward_pass_gru.png Graphic file (type png)
+<use ../images/forward_pass_gru.png>
+Package pdftex.def Info: ../images/forward_pass_gru.png  used on input line 100.
+(pdftex.def)             Requested size: 165.59853pt x 63.21056pt.
+ [4 <../images/forward_pass_lstm.png> <../images/forward_pass_gru.png>]
+<../images/BiGRU100_trainlosses.png, id=38, 603.6954pt x 358.4592pt>
+File: ../images/BiGRU100_trainlosses.png Graphic file (type png)
+<use ../images/BiGRU100_trainlosses.png>
+Package pdftex.def Info: ../images/BiGRU100_trainlosses.png  used on input line 119.
+(pdftex.def)             Requested size: 345.0pt x 204.85442pt.
+ [5 <../images/BiGRU100_trainlosses.png>]
+<../images/BiLSTM_trainlosses.png, id=43, 609.9588pt x 358.4592pt>
+File: ../images/BiLSTM_trainlosses.png Graphic file (type png)
+<use ../images/BiLSTM_trainlosses.png>
+Package pdftex.def Info: ../images/BiLSTM_trainlosses.png  used on input line 135.
+(pdftex.def)             Requested size: 165.59853pt x 97.31583pt.
+<../images/BiGRU_trainlosses.png, id=44, 609.9588pt x 358.4592pt>
+File: ../images/BiGRU_trainlosses.png Graphic file (type png)
+<use ../images/BiGRU_trainlosses.png>
+Package pdftex.def Info: ../images/BiGRU_trainlosses.png  used on input line 141.
+(pdftex.def)             Requested size: 165.59853pt x 97.31583pt.
+<../images/Transformer_trainlosses.png, id=45, 603.6954pt x 358.4592pt>
+File: ../images/Transformer_trainlosses.png Graphic file (type png)
+<use ../images/Transformer_trainlosses.png>
+Package pdftex.def Info: ../images/Transformer_trainlosses.png  used on input line 147.
+(pdftex.def)             Requested size: 165.59853pt x 98.32771pt.
+<../images/BiLSTM_train_conf.png, id=46, 333.1647pt x 278.9622pt>
+File: ../images/BiLSTM_train_conf.png Graphic file (type png)
+<use ../images/BiLSTM_train_conf.png>
+Package pdftex.def Info: ../images/BiLSTM_train_conf.png  used on input line 178.
+(pdftex.def)             Requested size: 110.40253pt x 92.4409pt.
+<../images/BiLSTM_val_conf.png, id=47, 326.9013pt x 278.9622pt>
+File: ../images/BiLSTM_val_conf.png Graphic file (type png)
+<use ../images/BiLSTM_val_conf.png>
+Package pdftex.def Info: ../images/BiLSTM_val_conf.png  used on input line 184.
+(pdftex.def)             Requested size: 110.40253pt x 94.21165pt.
+<../images/BiLSTM_test_conf.png, id=48, 326.9013pt x 278.9622pt>
+File: ../images/BiLSTM_test_conf.png Graphic file (type png)
+<use ../images/BiLSTM_test_conf.png>
+Package pdftex.def Info: ../images/BiLSTM_test_conf.png  used on input line 190.
+(pdftex.def)             Requested size: 110.40253pt x 94.21165pt.
+<../images/BiGRU_train_conf.png, id=49, 333.1647pt x 278.9622pt>
+File: ../images/BiGRU_train_conf.png Graphic file (type png)
+<use ../images/BiGRU_train_conf.png>
+Package pdftex.def Info: ../images/BiGRU_train_conf.png  used on input line 198.
+(pdftex.def)             Requested size: 110.40253pt x 92.4409pt.
+<../images/BiGRU_val_conf.png, id=50, 326.9013pt x 278.9622pt>
+File: ../images/BiGRU_val_conf.png Graphic file (type png)
+<use ../images/BiGRU_val_conf.png>
+Package pdftex.def Info: ../images/BiGRU_val_conf.png  used on input line 204.
+(pdftex.def)             Requested size: 110.40253pt x 94.21165pt.
+<../images/BiGRU_test_conf.png, id=51, 326.9013pt x 278.9622pt>
+File: ../images/BiGRU_test_conf.png Graphic file (type png)
+<use ../images/BiGRU_test_conf.png>
+Package pdftex.def Info: ../images/BiGRU_test_conf.png  used on input line 210.
+(pdftex.def)             Requested size: 110.40253pt x 94.21165pt.
+<../images/Transformer_train_conf.png, id=52, 333.1647pt x 278.9622pt>
+File: ../images/Transformer_train_conf.png Graphic file (type png)
+<use ../images/Transformer_train_conf.png>
+Package pdftex.def Info: ../images/Transformer_train_conf.png  used on input line 218.
+(pdftex.def)             Requested size: 110.40253pt x 92.4409pt.
+<../images/Transformer_val_conf.png, id=53, 326.9013pt x 278.9622pt>
+File: ../images/Transformer_val_conf.png Graphic file (type png)
+<use ../images/Transformer_val_conf.png>
+Package pdftex.def Info: ../images/Transformer_val_conf.png  used on input line 224.
+(pdftex.def)             Requested size: 110.40253pt x 94.21165pt.
+<../images/Transformer_test_conf.png, id=54, 326.9013pt x 278.9622pt>
+File: ../images/Transformer_test_conf.png Graphic file (type png)
+<use ../images/Transformer_test_conf.png>
+Package pdftex.def Info: ../images/Transformer_test_conf.png  used on input line 230.
+(pdftex.def)             Requested size: 110.40253pt x 94.21165pt.
+ [6 <../images/BiLSTM_trainlosses.png> <../images/BiGRU_trainlosses.png> <../images/Transformer_trainlosses.png>]
+<../images/BiLSTM_train_prc.png, id=62, 387.6081pt x 263.7855pt>
+File: ../images/BiLSTM_train_prc.png Graphic file (type png)
+<use ../images/BiLSTM_train_prc.png>
+Package pdftex.def Info: ../images/BiLSTM_train_prc.png  used on input line 247.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiLSTM_val_prc.png, id=63, 387.6081pt x 263.7855pt>
+File: ../images/BiLSTM_val_prc.png Graphic file (type png)
+<use ../images/BiLSTM_val_prc.png>
+Package pdftex.def Info: ../images/BiLSTM_val_prc.png  used on input line 253.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiLSTM_test_prc.png, id=64, 387.6081pt x 263.7855pt>
+File: ../images/BiLSTM_test_prc.png Graphic file (type png)
+<use ../images/BiLSTM_test_prc.png>
+Package pdftex.def Info: ../images/BiLSTM_test_prc.png  used on input line 259.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiGRU_train_prc.png, id=65, 387.6081pt x 263.7855pt>
+File: ../images/BiGRU_train_prc.png Graphic file (type png)
+<use ../images/BiGRU_train_prc.png>
+Package pdftex.def Info: ../images/BiGRU_train_prc.png  used on input line 267.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiGRU_val_prc.png, id=66, 387.6081pt x 263.7855pt>
+File: ../images/BiGRU_val_prc.png Graphic file (type png)
+<use ../images/BiGRU_val_prc.png>
+Package pdftex.def Info: ../images/BiGRU_val_prc.png  used on input line 273.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiGRU_test_prc.png, id=67, 387.6081pt x 263.7855pt>
+File: ../images/BiGRU_test_prc.png Graphic file (type png)
+<use ../images/BiGRU_test_prc.png>
+Package pdftex.def Info: ../images/BiGRU_test_prc.png  used on input line 279.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/Transformer_train_prc.png, id=68, 387.6081pt x 263.7855pt>
+File: ../images/Transformer_train_prc.png Graphic file (type png)
+<use ../images/Transformer_train_prc.png>
+Package pdftex.def Info: ../images/Transformer_train_prc.png  used on input line 287.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/Transformer_val_prc.png, id=69, 387.6081pt x 263.7855pt>
+File: ../images/Transformer_val_prc.png Graphic file (type png)
+<use ../images/Transformer_val_prc.png>
+Package pdftex.def Info: ../images/Transformer_val_prc.png  used on input line 293.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/Transformer_test_prc.png, id=70, 387.6081pt x 263.7855pt>
+File: ../images/Transformer_test_prc.png Graphic file (type png)
+<use ../images/Transformer_test_prc.png>
+Package pdftex.def Info: ../images/Transformer_test_prc.png  used on input line 299.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiLSTM_train_roc.png, id=71, 387.6081pt x 263.7855pt>
+File: ../images/BiLSTM_train_roc.png Graphic file (type png)
+<use ../images/BiLSTM_train_roc.png>
+Package pdftex.def Info: ../images/BiLSTM_train_roc.png  used on input line 313.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiLSTM_val_roc.png, id=72, 387.6081pt x 263.7855pt>
+File: ../images/BiLSTM_val_roc.png Graphic file (type png)
+<use ../images/BiLSTM_val_roc.png>
+Package pdftex.def Info: ../images/BiLSTM_val_roc.png  used on input line 319.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiLSTM_test_roc.png, id=73, 387.6081pt x 263.7855pt>
+File: ../images/BiLSTM_test_roc.png Graphic file (type png)
+<use ../images/BiLSTM_test_roc.png>
+Package pdftex.def Info: ../images/BiLSTM_test_roc.png  used on input line 325.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiGRU_train_roc.png, id=74, 387.6081pt x 263.7855pt>
+File: ../images/BiGRU_train_roc.png Graphic file (type png)
+<use ../images/BiGRU_train_roc.png>
+Package pdftex.def Info: ../images/BiGRU_train_roc.png  used on input line 333.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiGRU_val_roc.png, id=75, 387.6081pt x 263.7855pt>
+File: ../images/BiGRU_val_roc.png Graphic file (type png)
+<use ../images/BiGRU_val_roc.png>
+Package pdftex.def Info: ../images/BiGRU_val_roc.png  used on input line 339.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/BiGRU_test_roc.png, id=76, 387.6081pt x 263.7855pt>
+File: ../images/BiGRU_test_roc.png Graphic file (type png)
+<use ../images/BiGRU_test_roc.png>
+Package pdftex.def Info: ../images/BiGRU_test_roc.png  used on input line 345.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/Transformer_train_roc.png, id=77, 387.6081pt x 263.7855pt>
+File: ../images/Transformer_train_roc.png Graphic file (type png)
+<use ../images/Transformer_train_roc.png>
+Package pdftex.def Info: ../images/Transformer_train_roc.png  used on input line 353.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/Transformer_val_roc.png, id=78, 387.6081pt x 263.7855pt>
+File: ../images/Transformer_val_roc.png Graphic file (type png)
+<use ../images/Transformer_val_roc.png>
+Package pdftex.def Info: ../images/Transformer_val_roc.png  used on input line 359.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+<../images/Transformer_test_roc.png, id=79, 387.6081pt x 263.7855pt>
+File: ../images/Transformer_test_roc.png Graphic file (type png)
+<use ../images/Transformer_test_roc.png>
+Package pdftex.def Info: ../images/Transformer_test_roc.png  used on input line 365.
+(pdftex.def)             Requested size: 110.40253pt x 75.13135pt.
+ [7 <../images/BiLSTM_train_conf.png> <../images/BiLSTM_val_conf.png> <../images/BiLSTM_test_conf.png> <../images/BiGRU_train_conf.png> <../images/BiGRU_val_conf.png> <../images/BiGRU_test_conf.png> <../images/Transformer_train_conf.png> <../images/Transformer_val_conf.png> <../images/Transformer_test_conf.png>] [8 <../images/BiLSTM_train_prc.png> <../images/BiLSTM_val_prc.png> <../images/BiLSTM_test_prc.png> <../images/BiGRU_train_prc.png> <../images/BiGRU_val_prc.png> <../images/BiGRU_test_prc.png> <../images/Transformer_train_prc.png> <../images/Transformer_val_prc.png> <../images/Transformer_test_prc.png>] [9 <../images/BiLSTM_train_roc.png> <../images/BiLSTM_val_roc.png> <../images/BiLSTM_test_roc.png> <../images/BiGRU_train_roc.png> <../images/BiGRU_val_roc.png> <../images/BiGRU_test_roc.png> <../images/Transformer_train_roc.png> <../images/Transformer_val_roc.png> <../images/Transformer_test_roc.png>]
+<../images/BiLSTMc_test_conf.png, id=116, 320.397pt x 278.9622pt>
+File: ../images/BiLSTMc_test_conf.png Graphic file (type png)
+<use ../images/BiLSTMc_test_conf.png>
+Package pdftex.def Info: ../images/BiLSTMc_test_conf.png  used on input line 434.
+(pdftex.def)             Requested size: 110.40253pt x 96.12286pt.
+<../images/BiGRUc_test_conf.png, id=117, 320.397pt x 278.9622pt>
+File: ../images/BiGRUc_test_conf.png Graphic file (type png)
+<use ../images/BiGRUc_test_conf.png>
+Package pdftex.def Info: ../images/BiGRUc_test_conf.png  used on input line 440.
+(pdftex.def)             Requested size: 110.40253pt x 96.12286pt.
+<../images/Transformerc_test_conf.png, id=118, 320.397pt x 278.9622pt>
+File: ../images/Transformerc_test_conf.png Graphic file (type png)
+<use ../images/Transformerc_test_conf.png>
+Package pdftex.def Info: ../images/Transformerc_test_conf.png  used on input line 446.
+(pdftex.def)             Requested size: 110.40253pt x 96.12286pt.
+ [10] [11 <../images/BiLSTMc_test_conf.png> <../images/BiGRUc_test_conf.png> <../images/Transformerc_test_conf.png>] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 11667 strings out of 475389
+ 225492 string characters out of 2777000
+ 553777 words of memory out of 3000000
+ 32708 multiletter control sequences out of 15000+600000
+ 529821 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,9n,90p,1156b,545s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/tadeo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb>
+Output written on main.pdf (12 pages, 1964079 bytes).
+PDF statistics:
+ 185 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 189 words of extra memory for PDF output out of 10000 (max. 10000000)
+

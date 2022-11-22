@@ -1,0 +1,14 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Description of the Data}{2}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Splitting the Data}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Description of Methods}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Loss Function and Optimizer}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Bi-Directional LSTM}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}Bi-Directional GRU}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.4}Transformer Encoder Layer}{5}{}%
+\contentsline {section}{\numberline {2}Results}{5}{}%
+\contentsline {subsection}{\numberline {2.1}ROC and PRC}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Using a different time window}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Dealing with the Data Imbalance}{9}{}%
+\contentsline {section}{\numberline {3}Discussion}{10}{}%

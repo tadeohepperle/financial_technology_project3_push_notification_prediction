@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1669129742 "d:/code/financial_technology/financial_technology_project3_push_notification_prediction/latex/main.tex" "main.pdf" "main" 1669129751
+["pdflatex"] 1669130190 "d:/code/financial_technology/financial_technology_project3_push_notification_prediction/latex/main.tex" "main.pdf" "main" 1669130197
   "../images/BiGRU100_trainlosses.png" 1669112688 64098 cddc977b07d9cfdaf47d80104d563463 ""
   "../images/BiGRU_test_conf.png" 1669116506 52228 61516c75c5d6aa30b7e2f5fcf8d901ee ""
   "../images/BiGRU_test_prc.png" 1669116507 52600 306012332e01d1202f7711f6fded3f71 ""
@@ -184,10 +184,10 @@
   "C:/Users/tadeo/AppData/Local/Programs/MiKTeX/tex/latex/zhnumber/zhnumber.sty" 1657817710 38160 aafa8d740e4f21b62a4acd4835e54359 ""
   "C:/WINDOWS/Fonts/msyh.ttc" 1622894706 19647736 ff2e53a6131130a07589812ea5b5b0d0 ""
   "C:/WINDOWS/Fonts/simsun.ttc" 1622894706 17909384 a31f28cad247ad739adf0891b0f2f7f2 ""
-  "d:/code/financial_technology/financial_technology_project3_push_notification_prediction/latex/main.tex" 1669129741 23087 93977089137b750a0c7a611d947a0bdb ""
-  "main.aux" 1669129750 6754 74a4aa1b3293bd2d436a2da3db91ca8a "pdflatex"
-  "main.tex" 1669129741 23087 93977089137b750a0c7a611d947a0bdb ""
-  "main.toc" 1669129750 969 855118bc52a24260e0898c13a15d5f7b "pdflatex"
+  "d:/code/financial_technology/financial_technology_project3_push_notification_prediction/latex/main.tex" 1669130179 23087 1c7e41c7c35d4bb07d230295c175cab8 ""
+  "main.aux" 1669130197 6754 d6c23f9b38150125cee1513b6da37273 "pdflatex"
+  "main.tex" 1669130179 23087 1c7e41c7c35d4bb07d230295c175cab8 ""
+  "main.toc" 1669130197 969 0e17838f632522285e0a31e59ff7a30f "pdflatex"
   (generated)
   "main.aux"
   "main.log"
